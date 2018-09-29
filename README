@@ -1,0 +1,20 @@
+All synthetics should have:
+
+rust int
+
+giveOil() method
+tick() method (@Override)
+
+------
+All Cows (dogs) should have:
+
+currentMilk int
+
+getMilk() method
+milkCow() method
+cleanStall() method
+
+------
+All Organic RedPandas (cats) should have:
+
+cleanBox()
