@@ -18,3 +18,14 @@ cleanStall() method
 All Organic RedPandas (cats) should have:
 
 cleanBox()
+
+Synthetic animal Stats
+Name    |ID      |Species |Rust    |
+------------------------------------
+maximum |N/A     |N/A     |15      |
+
+
+Organic animal stats
+Name    |ID      |Species |Health  |Hunger  |Thirst  |Boredom |Dirty   |Tired   |
+---------------------------------------------------------------------------------
+maximum |N/A     |N/A     |25      |50      |50      |50      |50      |3       |
